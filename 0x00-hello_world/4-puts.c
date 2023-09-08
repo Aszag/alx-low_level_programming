@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - to print a phrase
+* main - A program to print a phrase
 * return: always 0 (success)
 */
 int main(void)
