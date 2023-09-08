@@ -3,7 +3,7 @@
 * main -Print the alphabet in lowercase
 * Return: 0 (Success)
 */
-int main(void);
+int main(void)
 {
 	char alpha = 'a';
 
