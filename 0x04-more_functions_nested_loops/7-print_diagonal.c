@@ -2,7 +2,7 @@
 /**
  * print_diagonal -to print diagonal line
  * @n: is the number of times
- * Return:0
+ * Return: empty
  */
 void print_diagonal(int n)
 {
