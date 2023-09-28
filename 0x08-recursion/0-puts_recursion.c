@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * @s: letters of the string
- * _puts_recursion: to print a string
+ * _puts_recursion - To print a string followed by a new ligne
+ * @s: a pointer to string
  * Return: nothing
  */
+
 void _puts_recursion(char *s)
 {
 	if (*s == '\0')
