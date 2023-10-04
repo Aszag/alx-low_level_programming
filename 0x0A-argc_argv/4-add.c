@@ -1,5 +1,5 @@
 #include<stdio>
-#include<sdtlib>
+#include<stdlib>
 /**
  * main -print sum of numbers
  * @argc: the number of argument
