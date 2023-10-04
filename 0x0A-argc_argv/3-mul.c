@@ -3,7 +3,7 @@
  * main - print the result of two numbers
  * @argc: a number of command line
  * @argv: array in command line
- * Return: the result if the programm receive numbers,otherwise 1
+ * Return: 0,otherwise 1
  */
 int main(int argc, char *argv[])
 {
@@ -19,4 +19,5 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		return (1);
 	}
+	return (0);
 }
