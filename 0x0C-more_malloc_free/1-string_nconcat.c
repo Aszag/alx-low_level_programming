@@ -1,5 +1,6 @@
 #include "main.h"
 #include<stdlib.h>
+#include<stdio.h>
 /**
  * string_nconcat -to concatinate two strings
  * @s1: fisrt string
